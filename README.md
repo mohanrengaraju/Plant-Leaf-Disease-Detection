@@ -3,8 +3,6 @@
 ##Problem Statement:
         The goal of this project is to develop an image classification model capable of identifying common diseases in plant leaves. Early detection of plant diseases is crucial for effective treatment and preventing widespread crop loss.
     
-Here’s your content **well-structured and formatted** in Markdown for a `README.md` file:
-
 ## 🛠️ Technologies Used
 
 os module: For interacting with the operating system, such as creating directories and managing files.
