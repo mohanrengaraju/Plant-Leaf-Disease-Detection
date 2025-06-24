@@ -21,7 +21,7 @@ tensorflow\.keras: The deep learning framework used to build and train the convo
  
  Sequential: To define the linear stack of layers for the model.
  
- Conv2D, MaxPooling2D, Flatten, Dense**: Layers used in the CNN architecture.
+ Conv2D, MaxPooling2D, Flatten, Dense: Layers used in the CNN architecture.
  
  numpy: For numerical operations, particularly for handling image data arrays and model predictions.
  
