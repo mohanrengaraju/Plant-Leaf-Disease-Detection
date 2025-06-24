@@ -5,10 +5,6 @@
     
 ## 🛠️ Technologies Used
 
-os module: For interacting with the operating system, such as creating directories and managing files.
-
-zip and unzip: For extracting the dataset.
-
 PIL (Pillow): For opening and displaying image files.
 
 IPython.display: For displaying images within the notebook.
